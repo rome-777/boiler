@@ -13,3 +13,5 @@ npm start
 - frontend code (react, css, js, other assets) in src/client
 - backend code and database (node, express, axios, pg) in src/server
 
+# boiler
+Boilerplate with Webpack/Babel, Express, Postgres, React, OAuth, Material UI
